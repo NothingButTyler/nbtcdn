@@ -5,10 +5,10 @@ All of the original series are stored here in the mch folder. Specials Links are
 
 Specials Links:
 
-[MRTDTS (Mickey Refuses To Do The Dishes)](https://github.com/NothingButTyler/nbtcdn/main/cdn/skits/mch/mrtdts)
+[MRTDTS (Mickey Refuses To Do The Dishes)](https://github.com/NothingButTyler/nbtcdn/tree/main/cdn/skits/mch/mrtdts)
 
-[MRTDTS 2 (Mickey Refuses To Do The Dishes 2)](https://github.com/NothingButTyler/nbtcdn/main/cdn/skits/mch/mrtdts2)
+[MRTDTS 2 (Mickey Refuses To Do The Dishes 2)](https://github.com/NothingButTyler/nbtcdn/tree/main/cdn/skits/mch/mrtdts2)
 
 Other Series I've Made:
 
-[TSC (The SpongeBob Catastrophe)](https://github.com/NothingButTyler/nbtcdn/main/cdn/skits/tsc)
+[TSC (The SpongeBob Catastrophe)](https://github.com/NothingButTyler/nbtcdn/tree/main/cdn/skits/tsc)
