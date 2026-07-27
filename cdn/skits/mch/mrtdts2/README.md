@@ -3,9 +3,11 @@ Yeah...there was a typo. mrtdts2 isn't supposed to have an S at the end, it's su
 
 Mickey Refuses To Do The Dishes 2 is a continued skit to the original part to the skit Mickey Refuses To Do The Dishes. For more information on Mickey Refuses To Do The Dishes, click [here](https://github.com/NothingButTyler/nbtcdn/tree/main/cdn/skits/mch/mrtdts).
 
-Link to watch: [Coming soon!]
-
 All of the original series are stored here in the mch folder. Specials Links are in the following folders below.
+
+
+✅ Official Link to watch: [Coming soon!]
+
 
 Part 1:
 
