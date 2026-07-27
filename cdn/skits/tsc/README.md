@@ -5,4 +5,4 @@ The SpongeBob Catastrophe is a comedy skit series I've made using voiceovers of 
 
 Other Series I've Made:
 
-[MCH (Mickey's Crazy Horrors)](https://github.com/NothingButTyler/nbtcdn/cdn/skits/mch)
+[MCH (Mickey's Crazy Horrors)](https://github.com/NothingButTyler/nbtcdn/tree/main/cdn/skits/mch)
