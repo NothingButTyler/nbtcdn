@@ -34,6 +34,7 @@ nbtofcl.short.gy
 ├── /hcr2 (takes you to friend my HCR2 main account)
 ├── /hcr2alt (takes you to friend my HCR2 alt account)
 ├── /yt (takes you to my main YouTube channel)
-└── /socials (takes you to see all of my socials)
+├── /socials (takes you to see all of my socials)
+└── /sitemap (takes you here)
 
 That's all :)
